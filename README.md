@@ -1,5 +1,5 @@
 # FedGCD
-This project is the offical pytorch implementation for our [CVPR2024](https://arxiv.org/abs/2305.14107) paper.
+This project is the offical pytorch implementation for our [CVPR2024](https://arxiv.org/abs/2305.14107) paper, Federated Generalized Category Discovery.
 
 Code is coming soon.
 
